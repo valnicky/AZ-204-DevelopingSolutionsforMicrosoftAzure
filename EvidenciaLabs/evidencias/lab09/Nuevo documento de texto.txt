@@ -1,0 +1,7 @@
+eventviewervr.azurewebsites.net
+
+topic endpoint:
+https://hrtopicvr.francecentral-1.eventgrid.azure.net/api/events
+
+key1 
+T7J5SOuYX0S1iCAL+WPfOM0fxBRFUQuFRiqJ/y2ROxI=
