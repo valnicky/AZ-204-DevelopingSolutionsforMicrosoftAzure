@@ -1,0 +1,24 @@
+blob service:
+https://mediastorvr.blob.core.windows.net/
+
+
+Storage account name:
+mediastorvr
+
+key:
+F6wd+FZIM83XWg/pZOMB1pt23Bfqq/ONciLZLg/5+/ICHrO8HGn9BbSIqsblo8uJt5EczxxWTOD9os881rDO7g==
+
+
+
+using System;
+
+namespace BlobManager
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
