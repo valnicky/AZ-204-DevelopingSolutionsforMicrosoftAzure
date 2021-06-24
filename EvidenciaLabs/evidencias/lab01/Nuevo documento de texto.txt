@@ -10,3 +10,19 @@ DefaultEndpointsProtocol=https;AccountName=imgstorvr;AccountKey=2HfbEaSQQVBuaglj
 
 url:
 imgapivr.azurewebsites.net
+
+url media
+https://contenthostvr.blob.core.windows.net/media
+
+endpoint hostname
+https://cdnmediavr.azureedge.net/campus.jpg
+https://cdnmediavr.azureedge.net/conference.jpg
+https://cdnmediavr.azureedge.net/poster.jpg
+
+endpoint hostname video:
+https://cdnvideovr.azureedge.net/welcome.mp4
+
+url video
+https://contenthostvr.blob.core.windows.net/video
+
+https://cdnwebvr.azureedge.net
