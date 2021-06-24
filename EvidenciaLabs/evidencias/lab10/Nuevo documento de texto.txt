@@ -1,0 +1,5 @@
+storage account name
+asyncstorvr
+
+key:
+DefaultEndpointsProtocol=https;AccountName=asyncstorvr;AccountKey=bQj9O+pW4Fl/6h6d+fl3LUoLfCvHXlf+pobziOZNfgVaV2y5ZjcPA3bcIvWldkbzGlPpFieSt3zYO6UuPDgsuA==;EndpointSuffix=core.windows.net

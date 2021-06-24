@@ -1,13 +1,13 @@
 blob service:
 https://mediastorvr.blob.core.windows.net/
+resource id : /subscriptions/496ef324-53ec-418d-9c91-43616ab1588d/resourceGroups/StorageMedia/providers/Microsoft.Storage/storageAccounts/mediastorvr/blobServices/default
 
 
 Storage account name:
 mediastorvr
 
 key:
-F6wd+FZIM83XWg/pZOMB1pt23Bfqq/ONciLZLg/5+/ICHrO8HGn9BbSIqsblo8uJt5EczxxWTOD9os881rDO7g==
-
+VY+gsEEoP8tRdsm+sj9hwmwpNUIslOTofN2xVe6G4X1rcwGTlMoy0QFQeFta9UwG6uHyvKCmbJ2qzAa47V8+0A==
 
 
 using System;

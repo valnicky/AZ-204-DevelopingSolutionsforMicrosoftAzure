@@ -1,0 +1,8 @@
+storage account name:
+funcstorvr
+
+
+key:
+tHJPqcPRqVaxDCbk1UYjRd0s+vBJtHM9YwnCoQj+ykgsYU+vesX2pdFaqTtb0ukTFAAkPabIlEJcMn18J0Zt6A==
+Connection string
+DefaultEndpointsProtocol=https;AccountName=funcstorvr;AccountKey=tHJPqcPRqVaxDCbk1UYjRd0s+vBJtHM9YwnCoQj+ykgsYU+vesX2pdFaqTtb0ukTFAAkPabIlEJcMn18J0Zt6A==;EndpointSuffix=core.windows.net

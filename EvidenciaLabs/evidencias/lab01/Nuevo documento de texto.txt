@@ -2,10 +2,11 @@ Storage account name:
 imgstorvr
 
 key:
-FhHzIbfWOpZYz+G0pwg9Kk6s1FvFHWsTGr+mJUsgtOjFjkumXqiXgTypGRQbJdphzdJKbmZW7CR1DshVd36Rbw==
+2HfbEaSQQVBuagljCSYp+a8hAzDrcbNOakhqwXWdsGSbK8/9RuojKvrQAC8/QjrJAKcRgrO7wlQsYxfWBrFEBg==
+
 
 Connection string:
-DefaultEndpointsProtocol=https;AccountName=imgstorvr;AccountKey=FhHzIbfWOpZYz+G0pwg9Kk6s1FvFHWsTGr+mJUsgtOjFjkumXqiXgTypGRQbJdphzdJKbmZW7CR1DshVd36Rbw==;EndpointSuffix=core.windows.net
+DefaultEndpointsProtocol=https;AccountName=imgstorvr;AccountKey=2HfbEaSQQVBuagljCSYp+a8hAzDrcbNOakhqwXWdsGSbK8/9RuojKvrQAC8/QjrJAKcRgrO7wlQsYxfWBrFEBg==;EndpointSuffix=core.windows.net
 
 url:
 imgapivr.azurewebsites.net

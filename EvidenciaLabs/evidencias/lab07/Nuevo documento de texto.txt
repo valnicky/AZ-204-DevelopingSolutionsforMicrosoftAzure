@@ -1,0 +1,18 @@
+Storage account name
+securestorvr
+
+key
+Ojves32yIXAAjsi7GTDQ+4wqxoJxmPDgS1T59hBUvt9X+4urqRQ0FkSRo8d83OxOOH8b+GFzHgGVrTk/LhXDiA==
+
+Connection string
+DefaultEndpointsProtocol=https;AccountName=securestorvr;AccountKey=Ojves32yIXAAjsi7GTDQ+4wqxoJxmPDgS1T59hBUvt9X+4urqRQ0FkSRo8d83OxOOH8b+GFzHgGVrTk/LhXDiA==;EndpointSuffix=core.windows.net
+
+current version
+7d1e9799c1ce44658732fbfb27147dee
+
+secret value
+DefaultEndpointsProtocol=https;AccountName=securestorvr;AccountKey=Ojves32yIXAAjsi7GTDQ+4wqxoJxmPDgS1T59hBUvt9X+4urqRQ0FkSRo8d83OxOOH8b+GFzHgGVrTk/LhXDiA==;EndpointSuffix=core.windows.net
+
+secret identifier
+https://securevaultvr.vault.azure.net/secrets/storagecredentials/7d1e9799c1ce44658732fbfb27147dee
+

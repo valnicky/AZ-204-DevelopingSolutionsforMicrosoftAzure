@@ -1,1 +1,22 @@
-d505dbf7-9eee-4387-b54b-b648b926d26e 
+Application (client) ID
+43e8854d-db74-4675-9c98-219a2d4e6f79
+
+Directory (tenant) ID
+87ed21aa-c289-44c5-87bd-e55077285059
+
+
+CQYZ6UCTC
+
+program.cs:
+using System;
+
+namespace GraphClient
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
