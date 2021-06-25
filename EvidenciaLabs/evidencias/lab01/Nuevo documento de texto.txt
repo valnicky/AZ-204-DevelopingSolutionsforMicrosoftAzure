@@ -1,28 +1,14 @@
-Storage account name:
+
+Storage account name
 imgstorvr
 
-key:
-2HfbEaSQQVBuagljCSYp+a8hAzDrcbNOakhqwXWdsGSbK8/9RuojKvrQAC8/QjrJAKcRgrO7wlQsYxfWBrFEBg==
+Key
+kvKwNEK8YfyInRR8m0kc1nfI0c/hIUXqsJeWXAHYl8XaTKTYQFacURMG1uC1UEAQE5536PfVO/L207KOHZlcGw==
 
 
-Connection string:
-DefaultEndpointsProtocol=https;AccountName=imgstorvr;AccountKey=2HfbEaSQQVBuagljCSYp+a8hAzDrcbNOakhqwXWdsGSbK8/9RuojKvrQAC8/QjrJAKcRgrO7wlQsYxfWBrFEBg==;EndpointSuffix=core.windows.net
+connection string
+DefaultEndpointsProtocol=https;AccountName=imgstorvr;AccountKey=kvKwNEK8YfyInRR8m0kc1nfI0c/hIUXqsJeWXAHYl8XaTKTYQFacURMG1uC1UEAQE5536PfVO/L207KOHZlcGw==;EndpointSuffix=core.windows.net
 
-url:
+
+url
 imgapivr.azurewebsites.net
-
-url media
-https://contenthostvr.blob.core.windows.net/media
-
-endpoint hostname
-https://cdnmediavr.azureedge.net/campus.jpg
-https://cdnmediavr.azureedge.net/conference.jpg
-https://cdnmediavr.azureedge.net/poster.jpg
-
-endpoint hostname video:
-https://cdnvideovr.azureedge.net/welcome.mp4
-
-url video
-https://contenthostvr.blob.core.windows.net/video
-
-https://cdnwebvr.azureedge.net
