@@ -7,3 +7,5 @@ APPINSIGHTS_INSTRUMENTATIONKEY 77c7d271-2be0-46ea-80e5-0a6a893d76
 
 url:
 http://smpapivr.azurewebsites.net
+
+https://smpapivr.azurewebsites.net/weatherforecast
