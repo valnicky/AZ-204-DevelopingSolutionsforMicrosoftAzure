@@ -1,0 +1,7 @@
+endpoint hostname
+https://cdnmediavr.azureedge.net
+
+
+https://cdnvideovr.azureedge.net
+
+https://cdnwebvr.azureedge.net
