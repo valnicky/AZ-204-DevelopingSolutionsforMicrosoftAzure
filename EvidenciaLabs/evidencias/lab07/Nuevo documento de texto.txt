@@ -2,17 +2,17 @@ Storage account name
 securestorvr
 
 key
-Ojves32yIXAAjsi7GTDQ+4wqxoJxmPDgS1T59hBUvt9X+4urqRQ0FkSRo8d83OxOOH8b+GFzHgGVrTk/LhXDiA==
+UeBN8Xrmj9/XcqCKVb4HFVQnfmhmzBsiwAoOdYdH0jYLuDEybpUoERNjZjsHh9pemIl7tp4spHn76+p0WyFtuw==
 
 Connection string
-DefaultEndpointsProtocol=https;AccountName=securestorvr;AccountKey=Ojves32yIXAAjsi7GTDQ+4wqxoJxmPDgS1T59hBUvt9X+4urqRQ0FkSRo8d83OxOOH8b+GFzHgGVrTk/LhXDiA==;EndpointSuffix=core.windows.net
+DefaultEndpointsProtocol=https;AccountName=securestorvr;AccountKey=UeBN8Xrmj9/XcqCKVb4HFVQnfmhmzBsiwAoOdYdH0jYLuDEybpUoERNjZjsHh9pemIl7tp4spHn76+p0WyFtuw==;EndpointSuffix=core.windows.net
 
 current version
-7d1e9799c1ce44658732fbfb27147dee
 
-secret value
-DefaultEndpointsProtocol=https;AccountName=securestorvr;AccountKey=Ojves32yIXAAjsi7GTDQ+4wqxoJxmPDgS1T59hBUvt9X+4urqRQ0FkSRo8d83OxOOH8b+GFzHgGVrTk/LhXDiA==;EndpointSuffix=core.windows.net
 
 secret identifier
-https://securevaultvr.vault.azure.net/secrets/storagecredentials/7d1e9799c1ce44658732fbfb27147dee
+https://securevaultvr1.vault.azure.net/secrets/storagecredentials/9946115ea5b2436eb9fba4f0df9cc08a
 
+
+url blob
+https://securestorvr.blob.core.windows.net/drop/records.json
